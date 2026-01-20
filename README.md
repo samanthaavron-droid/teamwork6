@@ -1,10 +1,2 @@
 # teamwork6
-
-
-
-
-
-I am adding features
-
-More features
-
+## De laatste opdracht van module 2.
